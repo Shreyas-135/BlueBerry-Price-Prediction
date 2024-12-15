@@ -6,9 +6,6 @@ This project utilizes Machine Learning to predict the yield of blueberry crops b
 
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Getting Started
 
@@ -36,8 +33,6 @@ To get a local copy up and running, follow these steps:
     ```sh
     python app.py
     ```
-
-## Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
